@@ -9,7 +9,7 @@
   "author": "Wolfram Hempel",
   "license": "MIT",
   "dependencies": {
-    "walker": "1.0.6",
+    "walker": "1.0.7",
     "handlebars": "2.0.0-alpha.2",
     "karma": "0.12.16"
   },
